@@ -4,6 +4,6 @@
 int main(void) {
 	printf(" Git Test\n");
 	printf(" Add details about test");
-	printf("Remote change\n");
+	printf("local change 222\n");
 	return 0;
 }
